@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "asdf",
+      "description": "asdfsad",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "asdfdas",
+      "id": 2
+    },
+    {
+      "title": "test2",
+      "description": "test",
+      "id": 3
+    },
+    {
+      "title": "sadfasd",
+      "description": "fsgsdfg",
+      "userId": "101347834632722797546",
+      "id": 6
+    },
+    {
+      "title": "Me streaming componentsss",
+      "description": "Watch me refactor some componentsss",
+      "id": 7
+    },
+    {
+      "title": "this is refactoring",
+      "description": "asdfasdfasd",
+      "id": 8
+    }
+  ]
+}
